@@ -2,7 +2,7 @@
 
 namespace CyberSecurityChatbot
 {
-    internal class ChatBot
+    internal class ChatBot 
     {
     
         public string UserName { get; set; }
