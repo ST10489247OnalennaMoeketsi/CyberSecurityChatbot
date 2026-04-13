@@ -78,6 +78,6 @@ class Program
    CYBER SECURITY BOT 
 ====================================
         ");
-        Console.ResetColor();
+        Console.ResetColor(); 
     }
 }
