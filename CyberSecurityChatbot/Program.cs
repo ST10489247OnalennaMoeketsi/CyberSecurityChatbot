@@ -75,7 +75,7 @@ class Program
         Console.ForegroundColor = ConsoleColor.Magenta;
         Console.WriteLine(@"
 ====================================
-   CYBER SECURITY BOT
+   CYBER SECURITY BOT 
 ====================================
         ");
         Console.ResetColor();
