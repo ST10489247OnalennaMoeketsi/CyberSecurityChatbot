@@ -23,7 +23,7 @@ class Program
         Console.ResetColor();
 
         // Get user name with validation
-        Console.Write("Enter your name: ");
+        Console.Write("Enter your name: "); 
         string name = Console.ReadLine();
 
         while (string.IsNullOrWhiteSpace(name))
