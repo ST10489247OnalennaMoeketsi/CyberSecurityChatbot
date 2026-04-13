@@ -10,7 +10,7 @@ class Program
 
         // Voice greeting (simulated due to VM limitations)
         Console.ForegroundColor = ConsoleColor.Cyan;
-        Console.WriteLine("Playing voice greeting... greeting.wav");
+        Console.WriteLine("Playing voice greeting... greeting.wav"); 
         Console.ResetColor();
         Thread.Sleep(1500);
 
